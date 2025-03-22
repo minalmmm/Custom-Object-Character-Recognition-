@@ -65,19 +65,13 @@ Appwrite is used to store training data, model outputs, and to provide RESTful A
 
 Below are the screenshots demonstrating the project output:
 
-[output]!(https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img3.png)
-
-![Installation Screenshot 2](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img5)
-
-![Installation Screenshot 3](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img4)
-
-![Installation Screenshot 4](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img7)
-
-![Installation Screenshot 5](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img6)
-
-![Installation Screenshot 6](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img8)
-
-![Installation Screenshot 7](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img9)
+![image](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img3.png))
+![image](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img5.png))
+![image](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img4.png))
+![image](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img7.png))
+![image](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img6.png))
+![image](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img8.png))
+![image](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img9.png))
 
 
 
