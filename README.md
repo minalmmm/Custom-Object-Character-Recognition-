@@ -67,14 +67,22 @@ Install the required packages:
 ```bash
 pip install torch torchvision streamlit opencv-python pillow numpy pytesseract
 
-**## 4. Installation**
-![Output]([https://github.com/user-attachments/assets/c355030a-9fbc-4026-895c-fab7312d1e25](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img3.png))
-![Output]([https://github.com/user-attachments/assets/c355030a-9fbc-4026-895c-fab7312d1e25](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img5.png))
-![Output]([https://github.com/user-attachments/assets/c355030a-9fbc-4026-895c-fab7312d1e25](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img4.png))
-![Output]([https://github.com/user-attachments/assets/c355030a-9fbc-4026-895c-fab7312d1e25](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img7.png))
-![Output]([https://github.com/user-attachments/assets/c355030a-9fbc-4026-895c-fab7312d1e25](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img6.png))
-![Output]([https://github.com/user-attachments/assets/c355030a-9fbc-4026-895c-fab7312d1e25](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img8.png))
-![Output]([https://github.com/user-attachments/assets/c355030a-9fbc-4026-895c-fab7312d1e25](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img9.png))
+## 5. Output
+
+![Installation Screenshot 1](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img3.png?raw=true)
+
+![Installation Screenshot 2](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img5.png?raw=true)
+
+![Installation Screenshot 3](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img4.png?raw=true)
+
+![Installation Screenshot 4](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img7.png?raw=true)
+
+![Installation Screenshot 5](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img6.png?raw=true)
+
+![Installation Screenshot 6](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img8.png?raw=true)
+
+![Installation Screenshot 7](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img9.png?raw=true)
+
 
 
 
