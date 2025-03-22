@@ -32,7 +32,7 @@ This project implements a custom object character recognition (OCR) system desig
 
 ### 3.1 Overall System Diagram
 
-![image]([https://github.com/user-attachments/assets/c355030a-9fbc-4026-895c-fab7312d1e25](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img.png))
+![image](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img.png))
 
 
 ### 3.2 Detailed Architecture
@@ -60,29 +60,24 @@ Appwrite is used to store training data, model outputs, and to provide RESTful A
 - AWS Account and proper credentials  
 - Appwrite instance for backend management
 
-### Dependencies
 
-Install the required packages:
+## 📸 Output Screenshots
 
-```bash
-pip install torch torchvision streamlit opencv-python pillow numpy pytesseract
+Below are the screenshots demonstrating the project output:
 
-## 5. Output
+[output]!(https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img3.png)
 
-![Installation Screenshot 1](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img3.png?raw=true)
+![Installation Screenshot 2](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img5)
 
-![Installation Screenshot 2](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img5.png?raw=true)
+![Installation Screenshot 3](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img4)
 
-![Installation Screenshot 3](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img4.png?raw=true)
+![Installation Screenshot 4](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img7)
 
-![Installation Screenshot 4](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img7.png?raw=true)
+![Installation Screenshot 5](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img6)
 
-![Installation Screenshot 5](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img6.png?raw=true)
+![Installation Screenshot 6](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img8)
 
-![Installation Screenshot 6](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img8.png?raw=true)
-
-![Installation Screenshot 7](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img9.png?raw=true)
-
+![Installation Screenshot 7](https://github.com/minalmmm/Custom-Object-Character-Recognition-/blob/main/images/img9)
 
 
 
